@@ -5,8 +5,8 @@ Dataset analysis using Tableau# Tableau Data Analysis Project: [Project Title]
 A brief description of your project, the dataset used, and the insights derived.
 
 ## Dataset
-- Source: [Link to the dataset]
-- Size: [Number of rows and columns, etc.]
+- Source: [https://github.com/Jedrik2002/Data-Analysis/blob/main/sample_-_superstore.xls]
+
 
 ## Process
 - Data cleaning: Brief description of steps.
